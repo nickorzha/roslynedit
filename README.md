@@ -1,6 +1,6 @@
-# RoslynPad
+# RoslynEditor
 
-![RoslynPad](src/RoslynPad/Resources/RoslynPad.png)
+![RoslynEditor](src/RoslynPad/Resources/RoslynPad.png)
 
 A cross-platform C# editor based on Roslyn and AvalonEdit
 
